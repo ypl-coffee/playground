@@ -1,0 +1,4 @@
+What if a child program called wait()?
+
+OK. It does not hang as I kind of expected.
+Yeah it makes perfect sense. It returns -1.
